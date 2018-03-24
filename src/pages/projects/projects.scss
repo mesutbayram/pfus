@@ -1,0 +1,13 @@
+page-projects {
+  .project {
+    margin-top: 20px;
+    background-color: azure;
+    box-shadow: 2px 8px 16px 2px rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 4px 4px 10px 10px; /* 5px rounded corners */
+}
+
+  .project .header {
+    background-color:azure;
+  }
+}
